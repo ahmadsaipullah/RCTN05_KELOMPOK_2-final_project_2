@@ -1,0 +1,56 @@
+.card{
+  box-shadow: 2px 0px 5px 0px black;
+  width: 18rem;
+  display: inline-block;
+  margin: 10px;
+  padding: 0;
+  
+}
+
+.men{
+  background-color: #000;
+  color: #fff;
+  width: 115px;
+  padding: 3px;
+  border-radius: 5px;
+  
+}
+
+.home{
+  margin-top: 100px;
+}
+.details{
+  margin-top: 100px;
+}
+.cart{
+  margin-top: 100px;
+}
+
+.detail a{
+  text-decoration: none;
+  color: #000;
+
+}
+.detail a:hover{
+  color:blue;
+}
+
+
+.login{
+ 
+  border: 1px solid #000;
+  padding: 50px;
+  margin: 185px 0px;
+  box-shadow: 1px 0px 5px 0px black;
+}
+
+.my-cart{
+  font-size: 36px;
+  padding-left: 20px;
+  font-weight: bold;
+}
+
+
+
+
+  
